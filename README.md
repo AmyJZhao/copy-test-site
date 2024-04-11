@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--exp-test-site--azhao.hlx.page/
-- Live: https://main--exp-test-site--azhao.hlx.live/
+- Preview: https://main--exp-test-site--amyjzhao.hlx.page/
+- Live: https://main--exp-test-site--amyjzhao.hlx.live/
 
 ## Installation
 
