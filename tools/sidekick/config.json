@@ -12,7 +12,7 @@
       ],
       "passConfig": true,
       "passReferrer": true,
-      "url": "https://experience.adobe.com/solutions/devx-services-experimentation-widget-poc/static-assets/resources/embed.html?route=sidekick&devx-services-experimentation-widget-poc_version=PR-7-bdf23a5e02c87e334095e36fc7a8eff3f5402321"
+      "url": "https://experience.adobe.com/solutions/devx-services-experimentation-widget-poc/static-assets/resources/embed.html?route=sidekick"
     }
   ]
 }
